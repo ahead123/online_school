@@ -30,7 +30,7 @@ gem 'rails_12factor'
 gem 'slim-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'rest-client'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
